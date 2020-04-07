@@ -27,7 +27,7 @@ class ArticleCard extends React.Component {
                         </header>
                         <div className="modal-card-body">
                             <img src={this.props.article.data.title_image.url} alt={this.props.article.data.title_image.alt}/>
-                            {RichText.render(this.props.article.data.body)}
+                            <RichText render={this.props.article.data.body}></RichText>
                         </div>
                         <footer class="modal-card-foot">
                             <button class="button" onClick={this.handleClick}>Close</button>
