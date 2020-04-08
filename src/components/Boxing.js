@@ -52,6 +52,7 @@ function Boxing(){
                         <p className="subtitle is-6 has-text-centered">
                             {"@" + gym.data.instagram_username}
                         </p>
+                        <script src='https://www.instagram.com/embed.js'/>
                         <div dangerouslySetInnerHTML={{ __html: instagrams[index]}} />
                     </div>
                 )
