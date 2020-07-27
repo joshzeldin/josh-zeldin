@@ -3,6 +3,7 @@ import {BrowserRouter as Router, Switch, Route} from "react-router-dom"
 import Navbar from './components/Navbar'
 import Travel from './components/Travel'
 import Boxing from './components/Boxing'
+import Work from './components/Work'
 import WorkInProgress from './components/WorkInProgress'
 import './App.scss'
 
@@ -22,7 +23,7 @@ function App() {
             <Boxing />
           </Route>
           <Route path="/work">
-            <WorkInProgress />
+            <Work />
           </Route>
           <Route path="/technology">
             <WorkInProgress />
