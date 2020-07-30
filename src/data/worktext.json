@@ -1,0 +1,103 @@
+[
+    {
+        "x": "180",
+        "y": "337",
+        "scrollPosition": [0.0, 0.015],
+        "text":[
+            "In 2015, I graduated from U. of Michigan - Ann Arbor",
+            "with a BS in Applied Mathematics (Economics).",
+            "Next Stop - Newry, N. Ireland",
+            "(scroll to continue)"
+        ],
+        "fill": "white"
+    },
+    {
+        "x": "310",
+        "y": "252",
+        "scrollPosition": [0.055, 0.12],
+        "text":[
+            "After graduating from college,",
+            "I began working for First Derivatives",
+            "as a Data Science Consultant. Work began",
+            "with a month long training program in N. Ireland."
+        ],
+        "fill": "black"
+    },    
+    {
+        "x": "367",
+        "y": "285",
+        "scrollPosition": [0.16, 0.20],
+        "text":[
+            "After completing the training program and a",
+            "few more additional months training in New York,",
+            "I began my first long-term consulting role at",
+            "Morgan Stanley where I was part of the",
+            "Quantitative Investment Strategies technology team."
+        ],
+        "fill": "black"
+    },    
+    {
+        "x": "275",
+        "y": "340",
+        "scrollPosition": [0.25, 0.32],
+        "text":[
+            "On the QIS team, I contributed towards a kdb+ system",
+            "responsible for backtesting investment strategies. ",
+            "During my time on this project, the business expanded ",
+            "rapidly growing to over $16 billion AUM."
+        ],
+        "fill": "black"
+    },
+    {
+        "x": "350",
+        "y": "305",
+        "scrollPosition": [0.35, 0.42],
+        "text":[
+            "I worked on this team for two years, before relocating to Hong Kong",
+            "to work with Morgan Stanley on launching their warrants",
+            "market making retail business."
+        ],
+        "fill": "black"
+    },
+    {
+        "x": "490",
+        "y": "290",
+        "scrollPosition": [0.44, 0.527],
+        "text":[
+            "Warrants are a very large market in HK, often times",
+            "making up more than 20% of the total equity trading in the region.",
+            "Due to the competitiveness of the industry, ultra low",
+            "latency market making engines are required and maintaining tight spreads",
+            "are incredibly important for a competitive advantage."
+
+        ],
+        "fill": "white"
+    }
+    ,
+    {
+        "x": "620",
+        "y": "258",
+        "scrollPosition": [0.528, 0.55],
+        "text":[
+            "I worked as the lead kdb+ developer on the analytics side",
+            "of the project. We created state of the art tools and reports",
+            "for monitoring engine latency, realtime P&L and risk metrics, ",
+            "and market intelligence reports. In addition, we ",
+            "created a scalable and efficient platform for quantitative research"
+
+
+        ],
+        "fill": "white"
+    },
+    {
+        "x": "640",
+        "y": "320",
+        "scrollPosition": [0.551, 0.570],
+        "text":[
+            "In July of 2020, we were able to launch our first",
+            "MS issued products and from then on, worked to scale",
+            "up both the business and technology aspects of the project"
+        ],
+        "fill": "white"
+    }
+]

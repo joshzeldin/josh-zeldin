@@ -780,70 +780,8 @@ function WorkMap(){
             style={{fill:"none",stroke:"rgb(180,180,180)", strokeWidth:"0px"}}/>
 
         <ellipse id="AnnArbor" cx="240" cy="332" rx="0.75" ry="0.75" style={{fill:"yellow"}}/>
-        <text x="180" y="337" style={{fill: "white", font:"3px sans-serif"}}>
-            <tspan x="180" dy="1.2em">
-                In 2015, I graduated from U. of Michigan - Ann Arbor
-            </tspan>
-            <tspan x="180" dy="1.2em">
-                with a BS in Applied Mathematics (Economics).
-            </tspan>
-            <tspan x="180" dy="1.2em">
-                Next Stop - Newry, N. Ireland
-            </tspan>
-            <tspan x="180" dy="1.2em" style={{font:"2px"}}>
-                (scroll to continue)
-            </tspan>
-        </text>
         <ellipse id="Newry" cx="458" cy="282" rx="0.75" ry="0.75" style={{fill:"yellow"}}/>
-        <text x="310" y="252" style={{fill: "black", font:"3px sans-serif"}}>
-            <tspan x="350" dy="1.2em">
-                After graduating from college, 
-            </tspan>
-            <tspan x="350" dy="1.2em">
-                I began working for First Derivatives
-            </tspan>
-            <tspan x="350" dy="1.2em">
-                as a Data Science Consultant. Work began
-            </tspan>
-            <tspan x="350" dy="1.2em">
-                with a month long training program in N. Ireland.
-            </tspan>
-        </text>
         <ellipse id="NewYork" cx="268" cy="338" rx="0.75" ry="0.75" style={{fill:"yellow"}}/>
-        <text x="367" y="285" style={{fill: "black", font:"3px sans-serif"}}>
-            <tspan x="367" dy="1.2em">
-                After completing the training program and a
-            </tspan>
-            <tspan x="367" dy="1.2em">
-                few more additional months training in New York,
-            </tspan>
-            <tspan x="367" dy="1.2em">
-                I began my first long-term consulting role at
-            </tspan>
-            <tspan x="367" dy="1.2em">
-                Morgan Stanley where I was part of the 
-            </tspan>
-            <tspan x="367" dy="1.2em">
-                Quantitative Investment Strategies technology team.
-            </tspan>
-        </text>
-        <text x="275" y="340" style={{fill: "black", font:"3px sans-serif"}}>
-            <tspan x="275" dy="1.2em">
-                On the QIS team, I contributed towards a kdb+ system 
-            </tspan>
-            <tspan x="275" dy="1.2em">
-                responsible for backtesting investment strategies. I worked
-            </tspan>
-            <tspan x="275" dy="1.2em">
-                on this team for two years, before relocating to Hong Kong 
-            </tspan>
-            <tspan x="275" dy="1.2em">
-                to work with Morgan Stanley on launching their warrants  
-            </tspan>
-            <tspan x="275" dy="1.2em">
-                market making retail business.
-            </tspan>
-        </text>
         <ellipse id="HongKong" cx="795" cy="398" rx="0.75" ry="0.75" style={{fill:"yellow"}}/>
         <ellipse id="Lisbon" cx="450" cy="345" rx="0.75" ry="0.75" style={{fill:"yellow"}}/>
    
