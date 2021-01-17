@@ -13,7 +13,7 @@ function App() {
       <div>
         <Navbar />
         <Switch>
-        <Route path="/donate">
+          <Route path="/donate">
             <WorkInProgress />
           </Route>
           <Route path="/travel">

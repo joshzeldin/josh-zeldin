@@ -1,7 +1,7 @@
 import React from 'react'
 
 function WorkMap(){
-    return <svg style={{position:"fixed"}} viewBox="0 0 1024 768" version="1.1">
+    return <svg class="is-fullheight" style={{position:"fixed"}} viewBox="0 0 1024 768" version="1.1">
         <g id="AD">
             <path d="M480.487,331.376L480.41,331.401L480.152,331.556L480.005,331.61L479.871,331.637L479.766,331.626L479.708,331.535L479.714,331.396L479.69,331.272L479.67,331.205L479.708,331.024L479.794,330.927L479.913,330.847L480.101,330.876L480.499,330.992L480.582,331.101L480.583,331.173L480.51,331.292L480.487,331.376Z" style={{fill:"gray"}}/>
         </g>
