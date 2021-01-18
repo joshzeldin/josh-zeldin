@@ -19,20 +19,8 @@ function App() {
           <Route path="/travel">
             <Travel />
           </Route>
-          <Route path="/boxing">
-            <Boxing />
-          </Route>
           <Route path="/work">
             <Work />
-          </Route>
-          <Route path="/technology">
-            <WorkInProgress />
-          </Route>
-          <Route path="/finance">
-            <WorkInProgress />
-          </Route>
-          <Route path="/surfing">
-            <WorkInProgress />
           </Route>
           <Route path="/">
             <Travel />

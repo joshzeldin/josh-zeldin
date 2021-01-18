@@ -7,7 +7,6 @@ class Navbar extends React.Component {
     handleClick = () => { 
         const { active } = this.state;
         this.setState({ active: !active }); 
-        console.log(this.state)
     }
 
     render () {
@@ -28,11 +27,6 @@ class Navbar extends React.Component {
                         <div className="navbar-start">
                             <Link to="/travel" className="navbar-item">Travel</Link>
                             <Link to="/work" className="navbar-item">Work</Link>
-                            <Link to="/technology" className="navbar-item">Technology</Link>
-                            <Link to="/finance" className="navbar-item">Finance</Link>
-                            <Link to="/surfing" className="navbar-item">Surfing</Link>
-                            <Link to="/boxing" className="navbar-item">Boxing</Link>
-                            <Link to="/donate" className="navbar-item">Donate</Link>
                         </div>
                     </div>
                 </div>
